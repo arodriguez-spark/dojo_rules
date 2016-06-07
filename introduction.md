@@ -4,4 +4,6 @@ Favorite Code School path is JavaScript
 * C#
 * Java
 * JavaScript
-* Killing history using git rebase
+* Fortran
+* Basic
+* Pascal
